@@ -36,7 +36,25 @@ The system is *instrumented* with:
    - Use the forward/reverse buttons in the lower left to step through iterations.  
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
 ---
-## Result
+## Tabulation
+<img width="1600" height="1091" alt="WhatsApp Image 2026-05-26 at 6 37 33 PM" src="https://github.com/user-attachments/assets/a4de056f-1455-4cac-b941-0da99a471732" />
+
+
+---
+
+## Graphs
+
+<img width="1258" height="633" alt="image" src="https://github.com/user-attachments/assets/91af42a0-5177-4c55-b9b8-3e3b22a80497" />
+
+
+---
+
+## RESULT
+
+The optical communication system was successfully simulated using OptiPerformer. As the fiber length increased from 50 km to 150 km, the following trends were observed:
+
+Received optical power decreased due to fiber attenuation. Q-factor gradually decreased, indicating signal quality degradation. Bit Error Rate (BER) increased with distance, showing higher error probability. The eye diagram became more closed at longer fiber lengths, confirming dispersion and noise effects. Hence, the simulation verified that optical signal performance deteriorates with increasing fiber length due to attenuation and dispersion losses.
+
 
 ---
 
